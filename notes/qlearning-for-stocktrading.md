@@ -1,11 +1,14 @@
-### A Multiagent Approach to Q-Learning for Daily Stock Trading [[link](https://trello-attachments.s3.amazonaws.com/589f14ffcc9e1569cd7332f1/589f59d488e48a1ab4f6cdfa/03accabf880509bb2cc06dfbc24d1ec6/A_Multiagent_Approach_to_Q-Learning.pdf)]
+## A Multiagent Approach to Q-Learning for Daily Stock Trading [[link](https://trello-attachments.s3.amazonaws.com/589f14ffcc9e1569cd7332f1/589f59d488e48a1ab4f6cdfa/03accabf880509bb2cc06dfbc24d1ec6/A_Multiagent_Approach_to_Q-Learning.pdf)]
 
-1. В статье использовался dataset from KOSPI200:
+1. В статье использовался dataset from KOSPI 200:
 	- `training set` with 32019 data points (from Jan 1999 to Dec 2000 - данные за 24 месяца)
 	- `validation set` with 6102 data points from Jan 2001 to May 2001 - данные за 5 месяцев)
 	- `first test set` with 33127 data points form Jun 2001 to Aug 2003 - данные за 28 месяцев)
 	- `second test set` with 34716 data points from Sep 2003 to Nov 2005 (данные за 28 месяцев)
+
 	Итого: использовались данные за период Jan 1999 - Nov 2005, всего ~7 лет
+
+### I. INTRODUCTION
 
 RL предоставляет подход, который решает проблему обучения агента выбору оптимальных действий для достижения целей (сам агент "чувствует" и действует в своём окружении).
 
@@ -13,6 +16,8 @@ RL предоставляет подход, который решает проб
 
 - `MAs` stands for "moving averages"
 - `TP` stands for "turning point" matrix
+
+### II. PROPOSED FRAMEWORK FOR MULTIAGENT Q-LEARNING
 
 #### A. Proposed Learning Framework
 
@@ -111,3 +116,17 @@ The buy signal agent сначала проверяет состояние бир
 `Delta_sell` - день, когда `sell signal agent` решил продать акцию, передается to `sell order agent`, который отвечает за определение offer price.
 
 Как и в случае `buy order agent`, определяется пространство действий для `sell order agent` (`Omega(s_delta_sell)`) - конечное множество разрешенных `SP ratio` with respect to MA^N_delta_sell.
+
+### IV. EMPIRICAL STUDY
+
+Рассматривались последние 230 дней для построения TP matrix.
+
+Алгоритмы, приведенные на Fig. 7-9, могут не завершиться в редких случаях. Поэтому установлено максимальное число для предотвращения зацикливания.
+
+Использовалась нейронка с 80ью юнитами в первом скрытом слое и 20ью - во втором скрытом слое для реализации MQ-Trader.
+
+![comp](images/qlearning-for-stocktrading_15.png)
+
+(a) - Ideal 2Q (I2Q)-Trader - order agents заменены идеальной политикой, в которой buy orders торгуют по минимальной дневной цене, а sell orders - по максимальной;
+
+(b) - MQ-Trader
