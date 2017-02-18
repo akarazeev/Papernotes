@@ -54,15 +54,15 @@ N-day MA on a trading day D: ![MA](images/qlearning-for-stocktrading_4.png)
 Два индикатора, которые отображают характеристики краткосрочного изменения цены и включают их в state representation для order agents:
  - gradient of the N-day MA on day D:
 
- ![grad](images/distance.png)
+ ![grad](images/qlearning-for-stocktrading_6.png)
 
  - normalized distance between P_D and MA_D^N:
 
- ![dist](images/distance.png)
+ ![dist](images/qlearning-for-stocktrading_5.png)
 
 Согласно `Granville’s law` - gradient and distance могут быть использованы для извлечения достаточных условый, чтобы сделать предсказание цены на день `D + 1`.
 
-![Fig.5](images/qlearning-for-stocktrading_5.png)
+![Fig.5](images/qlearning-for-stocktrading_7.png)
 
 Japanese candlestick содержит в себе важную информацию для пределения BP and SP:
  - the body
@@ -70,10 +70,33 @@ Japanese candlestick содержит в себе важную информац�
  - lower shadow
  - ratio of closing price difference
 
- ![ind](images/indicators.png)
+ ![ind](images/qlearning-for-stocktrading_8.png)
 
 ### III. LEARNING ALGORITHMS FOR MQ-TRADER AGENTS
 
 ![qlearn](images/qlearning-for-stocktrading_9.png)
 
 Q(s, a) - value function для пары state-action (s, a) в момент времени t, lambda and gamma - learning rate and discount factor; r(s, a) - награда за действие a в состоянии s.
+
+
+Если пространство состояний, которое исследует агент, велико, то необходимо аппроксимировать Q-value function.
+
+| ![Fig.6](images/qlearning-for-stocktrading_10.png) | ![Fig.7](images/qlearning-for-stocktrading_11.png) |
+| :------------- | :------------- |
+| ![Fig.8](images/qlearning-for-stocktrading_13.png) | ![Fig.9](images/qlearning-for-stocktrading_14.png)|
+
+The buy signal agent сначала проверяет состояние биржи в рандомный день delta (включая TP matrix). Он выполняет какое-то действие в соответствии с политикой epsilon-greedy function:
+
+![eps](images/qlearning-for-stocktrading_12.png)
+
+`Epsilon` - exploration factor и `Omega` - множество действий, которые могут быть выполнены в состоянии s.
+
+Если агент решает купить акцию, то он просит `buy order agent` и ждет до тех пор, пока `sell order agent` не попросит его.
+
+На награду будет влиять profit:
+ - transaction cost (TC)
+ - price slippage (разница между предсказанной и реальной ценами)
+
+Пространство действий для buy order agent (`Omega`) - конечное множество разрешенных BP.
+
+`Delta_sell` - день, когда `sell signal agent` решил продать акцию, передается to `sell order agent`, который отвечает за определение offer price.
