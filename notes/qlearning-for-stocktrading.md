@@ -1,5 +1,12 @@
 ### A Multiagent Approach to Q-Learning for Daily Stock Trading [[link](https://trello-attachments.s3.amazonaws.com/589f14ffcc9e1569cd7332f1/589f59d488e48a1ab4f6cdfa/03accabf880509bb2cc06dfbc24d1ec6/A_Multiagent_Approach_to_Q-Learning.pdf)]
 
+1. В статье использовался dataset from KOSPI200:
+	- `training set` with 32019 data points (from Jan 1999 to Dec 2000 - данные за 24 месяца)
+	- `validation set` with 6102 data points from Jan 2001 to May 2001 - данные за 5 месяцев)
+	- `first test set` with 33127 data points form Jun 2001 to Aug 2003 - данные за 28 месяцев)
+	- `second test set` with 34716 data points from Sep 2003 to Nov 2005 (данные за 28 месяцев)
+	Итого: использовались данные за период Jan 1999 - Nov 2005, всего ~7 лет
+
 RL предоставляет подход, который решает проблему обучения агента выбору оптимальных действий для достижения целей (сам агент "чувствует" и действует в своём окружении).
 
 Архитектура MQ-Trader состоит из четырех объединенных Q-learning агентов: первые два - `buy and sell signal agents` (определяют моменты купли и продажи), остальные два - `buy and sell order agents` (определяют best buy price (`BP`) and sell price (`SP`)).
@@ -49,7 +56,9 @@ TP - точка локального экстремума в графиках, �
 
 Для этой цели предлагается framework, state representation for the order agents которого основано на Granville's Law and Japanese candlesticks.
 
-N-day MA on a trading day D: ![MA](images/qlearning-for-stocktrading_4.png)
+`N-day MA` on a trading day D:
+
+![MA](images/qlearning-for-stocktrading_4.png)
 
 Два индикатора, которые отображают характеристики краткосрочного изменения цены и включают их в state representation для order agents:
  - gradient of the N-day MA on day D:
@@ -85,7 +94,7 @@ Q(s, a) - value function для пары state-action (s, a) в момент в�
 | :------------- | :------------- |
 | ![Fig.8](images/qlearning-for-stocktrading_13.png) | ![Fig.9](images/qlearning-for-stocktrading_14.png)|
 
-The buy signal agent сначала проверяет состояние биржи в рандомный день delta (включая TP matrix). Он выполняет какое-то действие в соответствии с политикой epsilon-greedy function:
+The buy signal agent сначала проверяет состояние биржи в рандомный день delta (включая TP matrix). Он выполняет какое-то действие в соответствии с политикой `epsilon-greedy function`:
 
 ![eps](images/qlearning-for-stocktrading_12.png)
 
@@ -100,3 +109,5 @@ The buy signal agent сначала проверяет состояние бир
 Пространство действий для buy order agent (`Omega`) - конечное множество разрешенных BP.
 
 `Delta_sell` - день, когда `sell signal agent` решил продать акцию, передается to `sell order agent`, который отвечает за определение offer price.
+
+Как и в случае `buy order agent`, определяется пространство действий для `sell order agent` (`Omega(s_delta_sell)`) - конечное множество разрешенных `SP ratio` with respect to MA^N_delta_sell.
