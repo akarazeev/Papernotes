@@ -1,3 +1,5 @@
+### A Multiagent Approach to Q-Learning for Daily Stock Trading [[link](https://trello-attachments.s3.amazonaws.com/589f14ffcc9e1569cd7332f1/589f59d488e48a1ab4f6cdfa/03accabf880509bb2cc06dfbc24d1ec6/A_Multiagent_Approach_to_Q-Learning.pdf)]
+
 RL предоставляет подход, который решает проблему обучения агента выбору оптимальных действий для достижения целей (сам агент "чувствует" и действует в своём окружении).
 
 Архитектура MQ-Trader состоит из четырех объединенных Q-learning агентов: первые два - `buy and sell signal agents` (определяют моменты купли и продажи), остальные два - `buy and sell order agents` (определяют best buy price (`BP`) and sell price (`SP`)).
@@ -32,8 +34,46 @@ RL предоставляет подход, который решает проб
 
 Предлагается схема, которая отображает состояние, называется `TP matrix` (также она сжато учитывает изменение цен за длительный период).
 
-#### State Representations for Order Agents
+TP - точка локального экстремума в графиках, полученных из вычисления пятидневной `MAs` по ценам закрытия. Если это локальный минимум, то TP называется восходящей (upward); если локальный максимум, то - спускающейся (downward).
+
+Последовательность TP отображает историю resistance and support цены акций. Например, наличие downward TP на уровне цены в 100 может говорить о том, что в будущем цена вряд ли поднимется выше 100.
+
+Матрица M=[A/B], матрицы A и B имеют размер n x n. Элементы M говорят о наличии TP с определенными свойствами. Колонки М - временные окна - которые определяются числами Фибоначчи таким образом, что jth колонка соответствует временному периоду в прошлом: ![row](images/qlearning-for-stocktrading_3.png)
+
+Строки М - диапазон of `price change ratio` акции в момент TP.
 
 
+#### C. State Representations for Order Agents
 
-III. LEARNING ALGORITHMS FOR MQ-TRADER AGENTS
+Цель of buy order и sell order agents - определить оптимальную ставку и узнать цены of orders для определенного дня торговли. В отличие от signal agents, которые предсказывают цену по большому периоду времени, order agents должны на основании дневного изменения цены сделать предсказание.
+
+Для этой цели предлагается framework, state representation for the order agents которого основано на Granville's Law and Japanese candlesticks.
+
+N-day MA on a trading day D: ![MA](images/qlearning-for-stocktrading_4.png)
+
+Два индикатора, которые отображают характеристики краткосрочного изменения цены и включают их в state representation для order agents:
+ - gradient of the N-day MA on day D:
+
+ ![grad](images/distance.png)
+
+ - normalized distance between P_D and MA_D^N:
+
+ ![dist](images/distance.png)
+
+Согласно `Granville’s law` - gradient and distance могут быть использованы для извлечения достаточных условый, чтобы сделать предсказание цены на день `D + 1`.
+
+![Fig.5](images/qlearning-for-stocktrading_5.png)
+
+Japanese candlestick содержит в себе важную информацию для пределения BP and SP:
+ - the body
+ - upper shadow
+ - lower shadow
+ - ratio of closing price difference
+
+ ![ind](images/indicators.png)
+
+### III. LEARNING ALGORITHMS FOR MQ-TRADER AGENTS
+
+![qlearn](images/qlearning-for-stocktrading_9.png)
+
+Q(s, a) - value function для пары state-action (s, a) в момент времени t, lambda and gamma - learning rate and discount factor; r(s, a) - награда за действие a в состоянии s.
