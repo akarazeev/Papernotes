@@ -21,3 +21,13 @@ C-Value/NC-Value
 ##### Candidate Term Generation
 - Linguistic Filters
 - N-gram
+
+##### Statistical analysis
+Используется эмпирический порог для отсечки.
+
+Measures:
+- frequency
+- t-score
+- log-likelihood
+- mutual information
+- Chi-squared
