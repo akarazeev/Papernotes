@@ -2,6 +2,9 @@
 :---: | :---:
 [deephack_NLP.md](deephack_NLP.md) | [deephack_RL.md](deephack_RL.md)
 
+#### 2017-03
+- Explaining and illustrating orthogonal initialization for recurrent neural networks [[post](http://smerity.com/articles/2016/orthogonal_init.html)]
+
 #### 2017-02
 - [Reinforcement Learning for Market-Making](notes/market-making.md) [[YT](https://www.youtube.com/watch?v=ylEo1O59Cb4)]
 - New Territory of Machine Translation [[YT](https://www.youtube.com/watch?v=zwYKaq9RG9w&index=2&list=PLt1IfGj6-_-dV93lEayDVYt-TQuU7yqpy)]
