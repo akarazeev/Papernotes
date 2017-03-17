@@ -1,4 +1,4 @@
-2016. Course on NLP | 2016. Course on RL | 2017. Course on DeepNLP
+Course on NLP. 2016 | Course on RL. 2016 | Course on DeepNLP. 2017
 :---: | :---: | :---:
 [deephack_NLP.md](deephack_NLP.md) | [deephack_RL.md](deephack_RL.md) | [oxford-cs-deepnlp-2017](https://github.com/oxford-cs-deepnlp-2017/lectures)<br/>[my_notes](https://github.com/akarazeev/MOOCs/blob/master/deepnlp-2017/roadmap.md)
 

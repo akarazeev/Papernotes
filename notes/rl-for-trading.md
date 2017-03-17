@@ -1,3 +1,5 @@
+### Reinforcement Learning for Trading [[link](https://papers.nips.cc/paper/1551-reinforcement-learning-for-trading.pdf)]
+
 Performance functions:
 - Profit or Wealth
 - Sharpe ratio
