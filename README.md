@@ -5,6 +5,7 @@ Course on NLP | Course on RL | Course on DeepNLP
 #### 2017-03
 - Explaining and illustrating orthogonal initialization for recurrent neural networks [[post](http://smerity.com/articles/2016/orthogonal_init.html)]
 - [Massive Exploration of Neural Machine Translation Architectures](notes/mas-exploration-of-nmt-arch.md) [[link](https://arxiv.org/pdf/1703.03906.pdf)]
+- [The Greening of Blockchains](http://hackingdistributed.com/2017/02/23/green-blockchains/)
 
 #### 2017-02
 - Reinforcement Learning for Market-Making [[YT](https://www.youtube.com/watch?v=ylEo1O59Cb4)]

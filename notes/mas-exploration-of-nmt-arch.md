@@ -1,0 +1,3 @@
+- GRU - Gated Recurrent Unit
+- BLEU (bilingual evaluation understudy) - measure the quality of machine-translated text from one natural language to another [wiki](https://en.wikipedia.org/wiki/BLEU)
+-
