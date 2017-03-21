@@ -1,0 +1,25 @@
+http://jmlr.org/proceedings/papers/v48/ulyanov16.pdf
+
+- DeepFace by Facebook [[link](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf?)]
+- Фоточки при загрузке на fb прогоняются через множество нейросеток (не только фоточки, но и все действия пользователя)
+- max pooling
+- 3-мерные тензоры
+- картинка 512 x 512 порядка 5ти минут
+- Генерация по параметрам (обратная сеть): 1 x 1 -> n x n
+- VGG19 by Oxford: Convolutions, ReLU, MaxPool
+- Tensor: C x W x H
+- Image Transformation:
+    - Style Transfer
+    - Neural Doodles - на каждый цвет свою структуру, матрицы Грама по регионам
+    - Texture Synthesis
+- Image generation by optimization
+- Gatys et. al.: Optimization-based texture synthesis
+- RGB - не лучший вариант (?)
+- шум, картинка -> текстура, Stylization network
+- ResNet
+- BatchNorm
+- Optical Flow (OF) - поле смещения
+- Conditional Image Generation with PixelCNN Decoders
+- RMF, марковские цепи
+- Full convolution (Deconvolution)
+- Upsampling/Downsampling
