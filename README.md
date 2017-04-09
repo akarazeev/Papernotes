@@ -2,6 +2,9 @@ Course on NLP. 2016 | Course on RL. 2016 | Course on DeepNLP. 2017
 :---: | :---: | :---:
 [deephack_NLP.md](deephack_NLP.md) | [deephack_RL.md](deephack_RL.md) | [[oxford-cs-deepnlp-2017]](https://github.com/oxford-cs-deepnlp-2017/lectures)<br/>[[my_notes]](https://github.com/akarazeev/MOOCs/blob/master/deepnlp-2017/README.md)
 
+#### 2017-04
+- What is a variational autoencoder? [[post](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)]
+
 #### 2017-03
 - Explaining and illustrating orthogonal initialization for recurrent neural networks [[post](http://smerity.com/articles/2016/orthogonal_init.html)]
 - [Massive Exploration of Neural Machine Translation Architectures](notes/mas-exploration-of-nmt-arch.md) [[link](https://arxiv.org/pdf/1703.03906.pdf)]
