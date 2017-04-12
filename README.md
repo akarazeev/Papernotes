@@ -4,6 +4,7 @@ Course on NLP. 2016 | Course on RL. 2016 | Course on DeepNLP. 2017
 
 #### 2017-04
 - What is a variational autoencoder? [[post](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)]
+- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/image-caption/) [[link](https://arxiv.org/pdf/1502.03044.pdf)]
 
 #### 2017-03
 - Explaining and illustrating orthogonal initialization for recurrent neural networks [[post](http://smerity.com/articles/2016/orthogonal_init.html)]
