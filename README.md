@@ -17,7 +17,7 @@
 - {📈} [Reinforcement Learning for Trading](notes/rl-for-trading.md) [[link](https://papers.nips.cc/paper/1551-reinforcement-learning-for-trading.pdf)]
 - {🌃} [Image Style Transfer, Neural Doodles & Texture Synthesis](notes/img-style-transfer.md) [[YT](https://www.youtube.com/watch?v=Zb32YICxytA)] [[slides](https://bayesgroup.github.io/bmml_sem/2016/style.pdf)]
 - {📒} [Distributed Representations of Sentences and Documents](notes/distr-repr-of-sent-and-docs.md) [[link](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)]
-- {📈} [Stock Trading with Recurrent Reinforcement Learning (RRL)](notes/trading-w-rrl.png.md) [[link](http://cs229.stanford.edu/proj2006/Molina-StockTradingWithRecurrentReinforcementLearning.pdf)] [[working code]()]
+- {📈, 🐍} [Stock Trading with Recurrent Reinforcement Learning (RRL)](notes/trading-w-rrl.png.md) [[link](http://cs229.stanford.edu/proj2006/Molina-StockTradingWithRecurrentReinforcementLearning.pdf)] [[working code](https://github.com/FRTP/Algorithms)]
 
 #### 2017-02
 - Reinforcement Learning for Market-Making [[YT](https://www.youtube.com/watch?v=ylEo1O59Cb4)]
