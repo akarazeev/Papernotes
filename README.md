@@ -5,7 +5,7 @@
 
 #### 2017-04
 - {🥞} What is a variational autoencoder? [[post](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)]
-- {🖼} [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/image-caption/) [[link](https://arxiv.org/pdf/1502.03044.pdf)]
+- {🖼} [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/image-caption/) [[arXiv](https://arxiv.org/pdf/1502.03044.pdf)]
 - Attention and Memory in Deep Learning and NLP [[link](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)]
 - {🤓} [Turing Computation with Recurrent Artificial Neural Networks](notes/turing-comput-w-rnn.md) [[arXiv](https://arxiv.org/pdf/1511.01427.pdf)]
 - {🥞} [How to Code and Understand DeepMind's Neural Stack Machine](notes/neural-stack.md) [[post](https://iamtrask.github.io/2016/02/25/deepminds-neural-stack-machine/)]
