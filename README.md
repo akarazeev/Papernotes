@@ -10,8 +10,9 @@
 - {🤓} [Turing Computation with Recurrent Artificial Neural Networks](notes/turing-comput-w-rnn.md) [[arXiv](https://arxiv.org/pdf/1511.01427.pdf)]
 - {🥞} [How to Code and Understand DeepMind's Neural Stack Machine](notes/neural-stack.md) [[post](https://iamtrask.github.io/2016/02/25/deepminds-neural-stack-machine/)]
 - {🗣} [SimpleDS: A Simple Deep Reinforcement Learning Dialogue System](notes/simple-rl-ds/simple-rl-ds.md) [[arXiv](https://arxiv.org/pdf/1601.04574.pdf)]
-- {🤓} On the universal structure of human lexical semantics [[pnas](http://www.pnas.org/content/113/7/1766.full)]
+- {🤓} On the universal structure of human lexical semantics [[PNAS](http://www.pnas.org/content/113/7/1766.full)]
 - {🥞} Understanding LSTM Networks [[post](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)]
+- {📘} Recurrent Neural Network Grammars [[arXiv](https://arxiv.org/pdf/1602.07776.pdf)]
 
 #### 2017-03
 - Explaining and illustrating orthogonal initialization for recurrent neural networks [[post](http://smerity.com/articles/2016/orthogonal_init.html)]
