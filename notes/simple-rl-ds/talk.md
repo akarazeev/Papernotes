@@ -8,7 +8,7 @@ Today I would like to tell you about Reinforcement Learning and its application 
 
 As a source I chose a paper by Heriberto which is about the application of Reinforcement Learning to Dialogue Systems.
 
-I am going to develop four main points. First, I would like to give a short introduction to Reinforcement Learning. Secondly, I will tell you about the application of Reinforcement Learning to the task of Dialogue Control. Thirdly, I am going to explain the novelty of system called “SimpleDS” by Heriberto who is author of the paper. Lastly, the compact summary of my presentation will be given.
+I am going to develop four main points. First, I will tell you about the application of Reinforcement Learning to the task of Dialogue Control. Secondly, I would like to give a short introduction to Reinforcement Learning. Thirdly, I am going to explain the novelty of system called “SimpleDS” by Heriberto who is author of the paper. Lastly, the compact summary of my presentation will be given.
 After my talk there will be time for a discussion and any questions. That is all for the introduction.
 
 The first part of my talk is about the application of Reinforcement Learning to Dialogue Systems.
