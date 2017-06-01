@@ -3,6 +3,9 @@
 | **2016**   | [[Natural language processing](deephack_NLP.md)]      | [[Reinforcement learning](deephack_RL.md)] |
 | **2017** | [[Deep learning in NLP](https://github.com/akarazeev/MOOCs/blob/master/deepnlp-2017/README.md)] | -
 
+#### 2017-05
+- {𝌐} Approximating the Kullback Leibler Divergence Between Gaussian Mixture Models [[ResearchGate](https://www.researchgate.net/publication/4249249_Approximating_the_Kullback_Leibler_Divergence_Between_Gaussian_Mixture_Models)]
+
 #### 2017-04
 - {🥞} What is a variational autoencoder? [[post](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)]
 - {🖼} [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/image-caption/) [[arXiv](https://arxiv.org/pdf/1502.03044.pdf)]
