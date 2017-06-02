@@ -3,6 +3,9 @@
 | **2016**   | [[Natural language processing](deephack_NLP.md)]      | [[Reinforcement learning](deephack_RL.md)] |
 | **2017** | [[Deep learning in NLP](https://github.com/akarazeev/MOOCs/blob/master/deepnlp-2017/README.md)] | -
 
+#### 2017-06
+- {🔊} Canonical Correlation Analysis For Classifying Baby Crying Sound Events [[link](http://iiav.org/archives_icsv_last/2015_icsv22/content/papers/papers/full_paper_361_20150302104000311.pdf)]
+
 #### 2017-05
 - {𝌐} Approximating the Kullback Leibler Divergence Between Gaussian Mixture Models [[ResearchGate](https://www.researchgate.net/publication/4249249_Approximating_the_Kullback_Leibler_Divergence_Between_Gaussian_Mixture_Models)]
 
