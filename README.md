@@ -3,6 +3,12 @@
 | **2016**   | [[Natural language processing](notes/deephack_NLP.md)]      | [[Reinforcement learning](notes/deephack_RL.md)] |
 | **2017** | [[Deep learning in NLP](https://github.com/akarazeev/MOOCs/blob/master/deepnlp-2017/README.md)] | -
 
+#### 2017-07
+- {+} Annotated Chemical Patent Corpus: A Gold Standard for Text Mining [[link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107477)]
+- Event-based text mining for biology and functional genomics [[link](https://academic.oup.com/bfg/article/14/3/213/205575/Event-based-text-mining-for-biology-and-functional)]
+- OSCAR4: a flexible architecture for chemical text-mining [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3205045/)]
+- 
+
 #### 2017-06
 - Canonical Correlation Analysis For Classifying Baby Crying Sound Events [[link](http://iiav.org/archives_icsv_last/2015_icsv22/content/papers/papers/full_paper_361_20150302104000311.pdf)]
 - Seq2seq-Attention Question Answering Model [[link](https://web.stanford.edu/class/cs224n/reports/2761153.pdf)]
