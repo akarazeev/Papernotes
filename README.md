@@ -8,6 +8,8 @@
 - Event-based text mining for biology and functional genomics [[link](https://academic.oup.com/bfg/article/14/3/213/205575/Event-based-text-mining-for-biology-and-functional)]
 - OSCAR4: a flexible architecture for chemical text-mining [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3205045/)]
 - Word Representations via Gaussian Embedding [[arXiv](https://arxiv.org/abs/1412.6623)]
+- Gaussian Mixture Embeddings for Multiple Word Prototypes [[arXiv](https://arxiv.org/abs/1511.06246)]
+- Multimodal Word Distributions [[arXiv](https://arxiv.org/abs/1704.08424)]
 
 #### 2017-06
 - Canonical Correlation Analysis For Classifying Baby Crying Sound Events [[link](http://iiav.org/archives_icsv_last/2015_icsv22/content/papers/papers/full_paper_361_20150302104000311.pdf)]
