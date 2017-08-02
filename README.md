@@ -3,6 +3,9 @@
 | **2016**   | [[Natural language processing](notes/deephack_NLP.md)]      | [[Reinforcement learning](notes/deephack_RL.md)] |
 | **2017** | [[Deep learning in NLP](https://github.com/akarazeev/MOOCs/blob/master/deepnlp-2017/README.md)] | -
 
+#### 2017-08
+- Convolutional neural networks for artistic style transfer [[post](https://harishnarayanan.org/writing/artistic-style-transfer/)]
+
 #### 2017-07
 - {+} Annotated Chemical Patent Corpus: A Gold Standard for Text Mining [[link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107477)]
 - Event-based text mining for biology and functional genomics [[link](https://academic.oup.com/bfg/article/14/3/213/205575/Event-based-text-mining-for-biology-and-functional)]
