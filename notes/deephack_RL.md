@@ -1,5 +1,5 @@
 ## Reinforcement Learning by DeepHackLab
-[![dhl](dhl.jpg)](http://info.deephack.me)
+[![dhl](../dhl.jpg)](http://info.deephack.me)
 ### Курс был построен на лекциях by David Silver
 
 1. Introduction to Reinforcement Learning [[lecture](https://www.youtube.com/watch?v=2pWv7GOvuf0)]
