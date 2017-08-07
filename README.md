@@ -5,7 +5,8 @@
 
 #### 2017-08
 - Convolutional neural networks for artistic style transfer [[post](https://harishnarayanan.org/writing/artistic-style-transfer/)]
-- [SQuAD: 100,000+ Questions for Machine Comprehension of Text](notes/squad.md)
+- [SQuAD: 100,000+ Questions for Machine Comprehension of Text](notes/squad.md)[[arXiv](https://arxiv.org/pdf/1606.05250.pdf)]
+- MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text [[microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/MCTest_EMNLP2013.pdf)]
 
 #### 2017-07
 - {+} Annotated Chemical Patent Corpus: A Gold Standard for Text Mining [[link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107477)]
