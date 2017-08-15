@@ -10,6 +10,7 @@
 - DRAGNN: A Transition-based Framework for Dynamically Connected Neural Networks [[arXiv](https://arxiv.org/pdf/1703.04474.pdf)]
 - Generative Adversarial Nets [[arXiv](https://arxiv.org/pdf/1406.2661.pdf)]
 - The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology [[oncotarget](http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path%5B0%5D=14073&path%5B1%5D=44886)]
+- Adversarial Autoencoders [[arXiv](https://arxiv.org/pdf/1511.05644.pdf)]
 
 #### 2017-07
 - {+} Annotated Chemical Patent Corpus: A Gold Standard for Text Mining [[link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107477)]
