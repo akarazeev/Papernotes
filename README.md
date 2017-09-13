@@ -1,7 +1,11 @@
 |  <a href=http://info.deephack.me> <img src=dhl.jpg width="50"> </a>  | NLP  | RL |
 | :-------------: | :-------------: | :-------------: |
-| **2016**   | [[Natural language processing](notes/deephack_NLP.md)]      | [[Reinforcement learning](notes/deephack_RL.md)] |
-| **2017** | [[Deep learning in NLP](https://github.com/akarazeev/MOOCs/blob/master/deepnlp-2017/README.md)] | -
+| **2016 fall**   | [[Natural language processing](notes/deephack_NLP.md)]      | [[Reinforcement learning](notes/deephack_RL.md)] |
+| **2017 spring** | [[Deep learning in NLP](https://github.com/akarazeev/MOOCs/blob/master/deepnlp-2017/README.md)] | -
+| **2017 fall** | [Deep Learning in NLP] | [Deep Reinforcement Learning] |
+
+#### 2017-09
+- [The CHEMDNER corpus of chemicals and drugs and its annotation principles](notes/chemdner.md) [[PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4331692/pdf/1758-2946-7-S1-S2.pdf)]
 
 #### 2017-08
 - Convolutional neural networks for artistic style transfer [[post](https://harishnarayanan.org/writing/artistic-style-transfer/)]
