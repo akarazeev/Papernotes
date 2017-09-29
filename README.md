@@ -6,6 +6,7 @@
 
 #### 2017-09
 - [The CHEMDNER corpus of chemicals and drugs and its annotation principles](notes/chemdner.md) [[PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4331692/pdf/1758-2946-7-S1-S2.pdf)]
+- Emotion Recognition From Speech With Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1701.08071)]
 
 #### 2017-08
 - Convolutional neural networks for artistic style transfer [[post](https://harishnarayanan.org/writing/artistic-style-transfer/)]
