@@ -1,8 +1,11 @@
-|  <a href=http://info.deephack.me> <img src=dhl.jpg width="50"> </a>  | NLP  | RL |
+|  <a href=http://edu.ipavlov.ai> <img src=ipav.png width="50"> </a>  | NLP  | RL |
 | :-------------: | :-------------: | :-------------: |
 | **2016 fall**   | [[Natural language processing](notes/deephack_NLP.md)]      | [[Reinforcement learning](notes/deephack_RL.md)] |
 | **2017 spring** | [[Deep learning in NLP](https://github.com/akarazeev/MOOCs/blob/master/deepnlp-2017/README.md)] | -
-| **2017 fall** | [[Deep Learning in NLP](https://github.com/akarazeev/MOOCs/blob/master/deepnlp-2017-fall/README.md)] | [[Deep Reinforcement Learning](https://github.com/akarazeev/MOOCs/blob/master/deeprl-2017-fall/README.md)] |
+| **2017 fall** | [[Deep Learning in NLP](https://github.com/deepmipt/deep-nlp-seminars)] | [[Deep Reinforcement Learning](https://github.com/deepmipt/deep-rl-seminars)] |
+
+#### 2017-10
+- Policy Gradient Methods for Reinforcement Learning with Function Approximation [[nips](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)]
 
 #### 2017-09
 - [The CHEMDNER corpus of chemicals and drugs and its annotation principles](notes/chemdner.md) [[PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4331692/pdf/1758-2946-7-S1-S2.pdf)]
