@@ -4,6 +4,9 @@
 | **2017 spring** | [[Deep learning in NLP](https://github.com/akarazeev/MOOCs/blob/master/deepnlp-2017/README.md)] | -
 | **2017 fall** | [[Deep Learning in NLP](https://github.com/deepmipt/deep-nlp-seminars)] | [[Deep Reinforcement Learning](https://github.com/deepmipt/deep-rl-seminars)] |
 
+#### 2019-04
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](notes/bert/) [[arXiv](https://arxiv.org/abs/1810.04805)]
+
 #### 2017-10
 - Policy Gradient Methods for Reinforcement Learning with Function Approximation [[nips](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)]
 
