@@ -1,5 +1,5 @@
 ## Natural Language Processing by DeepHackLab
-[![dhl](../dhl.jpg)](http://info.deephack.me)
+[![dhl](images/dhl.jpg)](http://info.deephack.me)
 ### Курс был построен на лекциях by Richard Socher
 
 1. Intro to NLP and Deep Learning [[lecture](https://www.youtube.com/watch?v=sU_Yu_USrNc)]
