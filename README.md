@@ -4,6 +4,9 @@
 | **2017 spring** | [[Deep learning in NLP](https://github.com/akarazeev/MOOCs/blob/master/deepnlp-2017/README.md)] | -
 | **2017 fall** | [[Deep Learning in NLP](https://github.com/deepmipt/deep-nlp-seminars)] | [[Deep Reinforcement Learning](https://github.com/deepmipt/deep-rl-seminars)] |
 
+#### 2019-07
+- [Seamless Nudity Censorship: an Image-to-Image Translation Approach based on Adversarial Training](notes/seamless-censorship.md)
+
 #### 2019-04
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](notes/bert/) [[arXiv](https://arxiv.org/abs/1810.04805)]
 
