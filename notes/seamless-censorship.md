@@ -28,8 +28,28 @@ It is still uncommon to find datasets containing large quantities of paired imag
 
 cycleGAN -> adapts pix2pix to the unpaired settings (style transfer, object transfiguration, season transfer, photo enhancement)
 
+Related work: "Unsupervised Image to Image Translation with Generative Adversarial Networks" [[paper](https://arxiv.org/pdf/1701.02676.pdf)] [[code](https://github.com/zsdonghao/Unsup-Im2Im)]
+
 ## III. Proposed Approach
 
 <inspiration from CycleGANs>
 
 ### A. Dataset
+
+Images representing both domains were scrapped from Internet (nude women and women wearing bikinis -> filtering to keep only one person on every picture). For X domain (wearing bikinis) 1044 images were selected for Train and 117 images for Test. For Y domain (nude women) 921 images for Train and 103 for Test.
+
+NSFW dataset from related papers: [[pornography classification](https://sites.google.com/site/nudedetection/)], [[pornography video classification](https://sites.google.com/site/pornographydatabase/)]
+
+### B. Loss Function
+
+LSGANs loss was adopted. Translation should be "cycle-consistent". Forward cycle consistency: x -> G(x) -> F(G(x)) ≈ x. Backward cycle consistency: y -> F(y) -> G(F(y)) ≈ y.
+
+### C. Network Architecture
+
+- N-Layers D
+- 9-Blocks ResNet G
+- U-Net 256 G
+
+## IV. Experiments
+
+256x256 resolution was used. Background was removed to improve quality and speed up the learning process. To segment people in all images the Mask R-CNN was used (sota for semantic and instance segmentation)
