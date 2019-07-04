@@ -7,8 +7,24 @@
 
 ---
 
+#### 2018-08
+- Learning hard quantum distributions with variational autoencoders [[nature](https://www.nature.com/articles/s41534-018-0077-z)]
+- A fully programmable 100-spin coherent Ising machine with all-to-all connections [[science](https://science.sciencemag.org/content/354/6312/614)]
+
+#### 2018-07
+- Neural-network quantum state tomography [[nature](https://www.nature.com/articles/s41567-018-0048-5)]
+- Deep learning with coherent nanophotonic circuits [[nature](https://www.nature.com/articles/nphoton.2017.93)]
+
+#### 2018-06
+- Quantum Kitchen Sinks: An algorithm for machine learning on near-term quantum computers [[arXiv](https://arxiv.org/abs/1806.08321)]
+- Solving the Quantum Many-Body Problem with Artificial Neural Networks [[arXiv](https://arxiv.org/abs/1606.02318)]
+
 #### 2018-04
-- TODO: Add papers on Quantum Computing
+- A Quantum Approximate Optimization Algorithm [[arXiv](https://arxiv.org/abs/1411.4028)]
+- A variational eigenvalue solver on a quantum processor [[arXiv](https://arxiv.org/abs/1304.3061)]
+- Quantum principal component analysis [[arXiv](https://arxiv.org/abs/1307.0401)]
+- Quantum Artificial Life in an IBM Quantum Computer [[nature](https://www.nature.com/articles/s41598-018-33125-3)]
+- A Software Methodology for Compiling Quantum Programs [[arXiv](https://arxiv.org/abs/1604.01401)]
 
 ---
 
@@ -49,6 +65,7 @@
 
 #### 2017-05
 - Approximating the Kullback Leibler Divergence Between Gaussian Mixture Models [[ResearchGate](https://www.researchgate.net/publication/4249249_Approximating_the_Kullback_Leibler_Divergence_Between_Gaussian_Mixture_Models)]
+- Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)]
 
 #### 2017-04
 - What is a variational autoencoder? [[post](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)]
