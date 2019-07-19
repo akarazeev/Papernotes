@@ -1,6 +1,7 @@
 #### 2019-07
 - [Seamless Nudity Censorship: an Image-to-Image Translation Approach based on Adversarial Training](notes/seamless-censorship.md) [[ResearchGate](https://www.researchgate.net/publication/325746502_Seamless_Nudity_Censorship_an_Image-to-Image_Translation_Approach_based_on_Adversarial_Training)]
 - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[arXiv](https://arxiv.org/abs/1703.10593)] [[code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
+- XLNet: Generalized Autoregressive Pretraining for Language Understanding [[arXiv](https://arxiv.org/abs/1906.08237)]
 
 #### 2019-04
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](notes/bert/) [[arXiv](https://arxiv.org/abs/1810.04805)]
