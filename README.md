@@ -3,6 +3,7 @@
 - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[arXiv](https://arxiv.org/abs/1703.10593)] [[code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
 - XLNet: Generalized Autoregressive Pretraining for Language Understanding [[arXiv](https://arxiv.org/abs/1906.08237)]
 - Towards an Empirical Foundation for Assessing Bayesian Optimization of Hyperparameters [[link](https://ml.informatik.uni-freiburg.de/papers/13-BayesOpt_EmpiricalFoundation.pdf)] [[set of benchmark functions provided in the paper were used to benchmark scikit-optimize](https://github.com/scikit-optimize/scikit-optimize/blob/074ce8e78b84a798b22453d159807357cc4f3a4b/benchmarks/README.md)]
+- Unsupervised Data Augmentation for Consistency Training [[arXiv](https://arxiv.org/abs/1904.12848)]
 
 #### 2019-04
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](notes/bert/) [[arXiv](https://arxiv.org/abs/1810.04805)]
