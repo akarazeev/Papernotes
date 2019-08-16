@@ -1,5 +1,6 @@
 #### 2019-08
 - Employee Turnover Prediction with Machine Learning: A Reliable Approach [[ResearchGate](https://www.researchgate.net/publication/328796091_Employee_Turnover_Prediction_with_Machine_Learning_A_Reliable_Approach_Proceedings_of_the_2018_Intelligent_Systems_Conference_IntelliSys_Volume_2)]
+- Machine Learning: The High Interest Credit Card of Technical Debt [[ai.google](https://ai.google/research/pubs/pub43146)]
 
 #### 2019-07
 - [Seamless Nudity Censorship: an Image-to-Image Translation Approach based on Adversarial Training](notes/seamless-censorship.md) [[ResearchGate](https://www.researchgate.net/publication/325746502_Seamless_Nudity_Censorship_an_Image-to-Image_Translation_Approach_based_on_Adversarial_Training)]
