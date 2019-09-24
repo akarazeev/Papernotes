@@ -1,6 +1,7 @@
 #### 2019-09
 - Architectural Principles for a Quantum Internet [[IETF](https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/)]
 - A Link Layer Protocol for Quantum Networks [[arXiv](https://arxiv.org/abs/1903.09778)]
+- A Neural Algorithm of Artistic Style [[arXiv](https://arxiv.org/abs/1508.06576)]
 
 #### 2019-08
 - [Employee Turnover Prediction with Machine Learning: A Reliable Approach](notes/turnover-prediction.md) [[ResearchGate](https://www.researchgate.net/publication/328796091_Employee_Turnover_Prediction_with_Machine_Learning_A_Reliable_Approach_Proceedings_of_the_2018_Intelligent_Systems_Conference_IntelliSys_Volume_2)]
