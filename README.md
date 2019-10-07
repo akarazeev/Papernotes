@@ -1,3 +1,7 @@
+#### 2019-10
+- A Public Domain Dataset for Human Activity Recognition Using Smartphones [[link](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-84.pdf)] [[dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)]
+- Human Activity Recognition on Smartphones with Awareness of Basic Activities and Postural Transitions [[Springer, p. 177](https://link.springer.com/chapter/10.1007/978-3-319-11179-7_23)] [[dataset](https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions)]
+
 #### 2019-09
 - Architectural Principles for a Quantum Internet [[IETF](https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/)]
 - A Link Layer Protocol for Quantum Networks [[arXiv](https://arxiv.org/abs/1903.09778)]
