@@ -35,6 +35,7 @@
 #### 2018-06
 - Quantum Kitchen Sinks: An algorithm for machine learning on near-term quantum computers [[arXiv](https://arxiv.org/abs/1806.08321)]
 - Solving the Quantum Many-Body Problem with Artificial Neural Networks [[arXiv](https://arxiv.org/abs/1606.02318)]
+- QVECTOR: an algorithm for device-tailored quantum error correction [[arXiv](https://arxiv.org/abs/1711.02249)]
 
 #### 2018-04
 - A Quantum Approximate Optimization Algorithm [[arXiv](https://arxiv.org/abs/1411.4028)]
