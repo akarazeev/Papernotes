@@ -2,6 +2,7 @@
 - A Public Domain Dataset for Human Activity Recognition Using Smartphones [[link](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-84.pdf)] [[dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)]
 - Human Activity Recognition on Smartphones with Awareness of Basic Activities and Postural Transitions [[Springer, p. 177](https://link.springer.com/chapter/10.1007/978-3-319-11179-7_23)] [[dataset](https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions)]
 - ETSI GS Quantum Key Distribution (QKD); Application Interface [[link](https://www.etsi.org/deliver/etsi_gs/QKD/001_099/004/01.01.01_60/gs_qkd004v010101p.pdf)]
+- [Maximal Adaptive-Decision Speedups in Quantum-State Readout](notes/adaptive-decision-speedup.md) [[APS](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.011017)]
 
 #### 2019-09
 - Architectural Principles for a Quantum Internet [[IETF](https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/)]
