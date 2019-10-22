@@ -3,6 +3,8 @@
 - Human Activity Recognition on Smartphones with Awareness of Basic Activities and Postural Transitions [[Springer, p. 177](https://link.springer.com/chapter/10.1007/978-3-319-11179-7_23)] [[dataset](https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions)]
 - ETSI GS Quantum Key Distribution (QKD); Application Interface [[link](https://www.etsi.org/deliver/etsi_gs/QKD/001_099/004/01.01.01_60/gs_qkd004v010101p.pdf)]
 - [Maximal Adaptive-Decision Speedups in Quantum-State Readout](notes/adaptive-decision-speedup.md) [[APS](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.011017)]
+- Decision Making Photonics Solving Bandit Problems Using Photons [[ResearchGate](https://www.researchgate.net/publication/334527287_Decision_Making_Photonics_Solving_Bandit_Problems_Using_Photons)]
+- A Reinforcement Learning approach for Quantum State Engineering [[arXiv](https://arxiv.org/abs/1908.05981)]
 
 #### 2019-09
 - Architectural Principles for a Quantum Internet [[IETF](https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/)]
