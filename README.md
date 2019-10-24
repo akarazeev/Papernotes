@@ -5,6 +5,7 @@
 - [Maximal Adaptive-Decision Speedups in Quantum-State Readout](notes/adaptive-decision-speedup.md) [[APS](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.011017)]
 - Decision Making Photonics Solving Bandit Problems Using Photons [[ResearchGate](https://www.researchgate.net/publication/334527287_Decision_Making_Photonics_Solving_Bandit_Problems_Using_Photons)]
 - A Reinforcement Learning approach for Quantum State Engineering [[arXiv](https://arxiv.org/abs/1908.05981)]
+- Stable Baselines Tutorial [[github.io](https://araffin.github.io/slides/rl-tuto-jnrr19/#/)]
 
 #### 2019-09
 - Architectural Principles for a Quantum Internet [[IETF](https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/)]
