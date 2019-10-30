@@ -6,6 +6,8 @@
 - Decision Making Photonics Solving Bandit Problems Using Photons [[ResearchGate](https://www.researchgate.net/publication/334527287_Decision_Making_Photonics_Solving_Bandit_Problems_Using_Photons)]
 - A Reinforcement Learning approach for Quantum State Engineering [[arXiv](https://arxiv.org/abs/1908.05981)]
 - Stable Baselines Tutorial [[github.io](https://araffin.github.io/slides/rl-tuto-jnrr19/#/)]
+- Relay Policy Learning:
+Solving Long-Horizon Tasks via Imitation and Reinforcement Learning [[github.io](https://relay-policy-learning.github.io)]
 
 #### 2019-09
 - Architectural Principles for a Quantum Internet [[IETF](https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/)]
