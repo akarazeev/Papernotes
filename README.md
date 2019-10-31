@@ -9,6 +9,7 @@
 - Relay Policy Learning:
 Solving Long-Horizon Tasks via Imitation and Reinforcement Learning [[github.io](https://relay-policy-learning.github.io)]
 - Semantic Versioning [[link](https://semver.org)]
+- State representation in Reinforcement Learning [[stackexchange](https://ai.stackexchange.com/a/7771)]
 
 #### 2019-09
 - Architectural Principles for a Quantum Internet [[IETF](https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/)]
