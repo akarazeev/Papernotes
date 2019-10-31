@@ -8,6 +8,7 @@
 - Stable Baselines Tutorial [[github.io](https://araffin.github.io/slides/rl-tuto-jnrr19/#/)]
 - Relay Policy Learning:
 Solving Long-Horizon Tasks via Imitation and Reinforcement Learning [[github.io](https://relay-policy-learning.github.io)]
+- Semantic Versioning [[link](https://semver.org)]
 
 #### 2019-09
 - Architectural Principles for a Quantum Internet [[IETF](https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/)]
