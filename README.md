@@ -10,6 +10,7 @@
 Solving Long-Horizon Tasks via Imitation and Reinforcement Learning [[github.io](https://relay-policy-learning.github.io)]
 - Semantic Versioning [[link](https://semver.org)]
 - State representation in Reinforcement Learning [[stackexchange](https://ai.stackexchange.com/a/7771)]
+- Troubleshooting Deep Neural Networks [[link](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)]
 
 #### 2019-09
 - Architectural Principles for a Quantum Internet [[IETF](https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/)]
