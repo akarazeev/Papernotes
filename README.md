@@ -1,3 +1,6 @@
+#### 2019-11
+- Practical DevOps for the busy Data Scientist [[link](https://speakerdeck.com/trallard/practical-devops-for-the-busy-data-scientist-b85e6447-6f6e-4caf-8441-acf1cb117a95)]
+
 #### 2019-10
 - A Public Domain Dataset for Human Activity Recognition Using Smartphones [[link](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-84.pdf)] [[dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)]
 - Human Activity Recognition on Smartphones with Awareness of Basic Activities and Postural Transitions [[Springer, p. 177](https://link.springer.com/chapter/10.1007/978-3-319-11179-7_23)] [[dataset](https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions)]
