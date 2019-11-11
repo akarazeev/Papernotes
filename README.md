@@ -4,6 +4,7 @@
 - Deep Reinforcement Learning that Matters (! with interesting Conclusion and Supplementary)[[arXiv](https://arxiv.org/abs/1709.06560)]
 - Self-Supervised Representation Learning [[github.io](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)]
 - Learning to Predict Without Looking Ahead: World Models Without Forward Prediction [[github.io](https://learningtopredict.github.io)]
+- Demonstration of Machine Learning-Based Model-Independent Stabilization of Source Properties in Synchrotron Light Sources [[PhysRevLet](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.194801)]
 
 #### 2019-10
 - A Public Domain Dataset for Human Activity Recognition Using Smartphones [[link](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-84.pdf)] [[dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)]
