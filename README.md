@@ -8,6 +8,7 @@
 - Accelerated Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1803.02811)]
 - Reproducible Research is more than Publishing Research Artefacts: A Systematic Analysis of Jupyter Notebooks from Research Articles [[arXiv](https://arxiv.org/abs/1905.00092)]
 - Self-training with Noisy Student improves ImageNet classification [[arXiv](https://arxiv.org/abs/1911.04252)]
+- Putting An End to End-to-End: Gradient-Isolated Learning of Representations [[arXiv](https://arxiv.org/abs/1905.11786)]
 
 #### 2019-10
 - A Public Domain Dataset for Human Activity Recognition Using Smartphones [[link](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-84.pdf)] [[dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)]
