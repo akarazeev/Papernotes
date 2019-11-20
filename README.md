@@ -7,6 +7,7 @@
 - Demonstration of Machine Learning-Based Model-Independent Stabilization of Source Properties in Synchrotron Light Sources [[PhysRevLet](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.194801)]
 - Accelerated Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1803.02811)]
 - Reproducible Research is more than Publishing Research Artefacts: A Systematic Analysis of Jupyter Notebooks from Research Articles [[arXiv](https://arxiv.org/abs/1905.00092)]
+- Self-training with Noisy Student improves ImageNet classification [[arXiv](https://arxiv.org/abs/1911.04252)]
 
 #### 2019-10
 - A Public Domain Dataset for Human Activity Recognition Using Smartphones [[link](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-84.pdf)] [[dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)]
