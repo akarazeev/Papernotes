@@ -1,6 +1,7 @@
 #### 2020-04
 - Mining Change Logs and Release Notes to Understand Software Maintenance and Evolution [[ResearchGate](https://www.researchgate.net/publication/220243332_Mining_Change_Logs_and_Release_Notes_to_Understand_Software_Maintenance_and_Evolution)]
-
+- Network In Network [[arXiv](https://arxiv.org/abs/1312.4400)]
+- ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases [[arXiv](https://arxiv.org/abs/1705.02315)]
 
 #### 2019-11
 - Practical DevOps for the busy Data Scientist [[link](https://speakerdeck.com/trallard/practical-devops-for-the-busy-data-scientist-b85e6447-6f6e-4caf-8441-acf1cb117a95)]
