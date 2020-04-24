@@ -3,7 +3,7 @@
 - Network In Network [[arXiv](https://arxiv.org/abs/1312.4400)]
 - ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases [[arXiv](https://arxiv.org/abs/1705.02315)]
 - Deep learning on unseen data: introducing federated learning [[link](https://livebook.manning.com/book/grokking-deep-learning/chapter-15/)]
-- UNet [[Medium](https://towardsdatascience.com/u-net-b229b32b4a71)]
+- U-Net: Convolutional Networks for Biomedical Image Segmentation [[arXiv](https://arxiv.org/pdf/1505.04597)] [[Medium](https://towardsdatascience.com/u-net-b229b32b4a71)]
 
 ---
 
