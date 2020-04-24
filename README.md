@@ -3,6 +3,8 @@
 - Network In Network [[arXiv](https://arxiv.org/abs/1312.4400)]
 - ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases [[arXiv](https://arxiv.org/abs/1705.02315)]
 
+---
+
 #### 2019-11
 - Practical DevOps for the busy Data Scientist [[link](https://speakerdeck.com/trallard/practical-devops-for-the-busy-data-scientist-b85e6447-6f6e-4caf-8441-acf1cb117a95)]
 - Human-level control through deep reinforcement learning [[nature](https://www.nature.com/articles/nature14236)]
