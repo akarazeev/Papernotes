@@ -4,6 +4,7 @@
 - ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases [[arXiv](https://arxiv.org/abs/1705.02315)]
 - Deep learning on unseen data: introducing federated learning [[link](https://livebook.manning.com/book/grokking-deep-learning/chapter-15/)]
 - U-Net: Convolutional Networks for Biomedical Image Segmentation [[arXiv](https://arxiv.org/abs/1505.04597)] [[Medium](https://towardsdatascience.com/u-net-b229b32b4a71)]
+- Consistent Individualized Feature Attribution for Tree Ensembles [[arXiv](https://arxiv.org/abs/1802.03888)]
 
 ---
 
