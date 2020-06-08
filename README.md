@@ -1,6 +1,7 @@
 #### 2020-04
 - CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison [[arXiv](https://arxiv.org/abs/1901.07031)]
 - Self-Training for Biomedical Parsing [[link](https://nlp.stanford.edu/~mcclosky/papers/dmcc-acl-2008.pdf)]
+- How Will You Measure Your Life? [[HBR](https://hbr.org/2010/07/how-will-you-measure-your-life)]
 
 #### 2020-04
 - Mining Change Logs and Release Notes to Understand Software Maintenance and Evolution [[ResearchGate](https://www.researchgate.net/publication/220243332_Mining_Change_Logs_and_Release_Notes_to_Understand_Software_Maintenance_and_Evolution)]
