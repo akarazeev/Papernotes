@@ -1,7 +1,7 @@
 #### 2020-10
 - NeuralQA: A Usable Library for Question Answering (Contextual Query Expansion + BERT) on Large Datasets [[arXiv](https://arxiv.org/abs/2007.15211)]
-- T2API: Synthesizing API Code Usage Templates from English Texts with Statistical Translation [ACM](https://dl.acm.org/doi/pdf/10.1145/2950290.2983931)
-- NLP2Code: Code Snippet Content Assist via Natural Language Tasks [arXiv](https://arxiv.org/abs/1701.05648)
+- T2API: Synthesizing API Code Usage Templates from English Texts with Statistical Translation [[ACM](https://dl.acm.org/doi/pdf/10.1145/2950290.2983931)]
+- NLP2Code: Code Snippet Content Assist via Natural Language Tasks [[arXiv](https://arxiv.org/abs/1701.05648)]
 
 #### 2020-04
 - CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison [[arXiv](https://arxiv.org/abs/1901.07031)]
