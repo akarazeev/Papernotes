@@ -1,3 +1,8 @@
+#### 2020-11
+- Adaptive correction of program statements [[ACM](https://dl.acm.org/doi/abs/10.1145/361932.361940)]
+- Compiling techniques to exploit the pattern of language usage [[link](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.4380060408)]
+- Natural information processing [[link](https://www.sciencedirect.com/science/article/abs/pii/S0020737374800039)]
+
 #### 2020-10
 - NeuralQA: A Usable Library for Question Answering (Contextual Query Expansion + BERT) on Large Datasets [[arXiv](https://arxiv.org/abs/2007.15211)]
 - T2API: Synthesizing API Code Usage Templates from English Texts with Statistical Translation [[ACM](https://dl.acm.org/doi/pdf/10.1145/2950290.2983931)]
