@@ -1,3 +1,7 @@
+#### 2020-12
+- Machine Learning for a Better Developer Experience [[Medium](https://netflixtechblog.com/machine-learning-for-a-better-developer-experience-1e600c69f36c)]
+- DSL Development with Xtext [[vimeo](https://vimeo.com/138873446)]
+
 #### 2020-11
 - Adaptive correction of program statements [[ACM](https://dl.acm.org/doi/abs/10.1145/361932.361940)]
 - Compiling techniques to exploit the pattern of language usage [[link](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.4380060408)]
