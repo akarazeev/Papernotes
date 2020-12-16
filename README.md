@@ -2,6 +2,7 @@
 - Machine Learning for a Better Developer Experience [[Medium](https://netflixtechblog.com/machine-learning-for-a-better-developer-experience-1e600c69f36c)]
 - DSL Development with Xtext [[vimeo](https://vimeo.com/138873446)]
 - Life of a Netflix Partner Engineer — The case of the extra 40 ms [[Medium](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513)]
+- How to spin your scientific research out of a university and into a startup [[YC](https://blog.ycombinator.com/how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup/)]
 
 #### 2020-11
 - Adaptive correction of program statements [[ACM](https://dl.acm.org/doi/abs/10.1145/361932.361940)]
